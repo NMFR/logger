@@ -1,6 +1,6 @@
 {
   "name": "logger",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Nuno Rodrigues",
   "description": "A logger that wraps around the console object and allows to enable and disable log levels (debug, info, warn, error).",
   "dependencies": {},
